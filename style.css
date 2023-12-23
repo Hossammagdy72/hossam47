@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(143, 120, 85);
+    font-family: 'Times New Roman', Times, serif;
+}
+.perfume , .i , .Types , .L {
+    color: #4e475b;
+}
+.p1{
+    color: #afaf9e;
+    font-weight: bold;
+}
+.lm p , .merit p{
+    color:#afaf9e ;
+    font-weight: bold;
+}
+.perfume{
+    border: solid black;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: #88693a;
+}
+.THANKS{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    text-transform:capitalize;
+}
+.p1::first-letter{
+    color: beige;
+    font-size: 30px;
+}
